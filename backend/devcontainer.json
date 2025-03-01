@@ -1,0 +1,13 @@
+{
+    "name": "Flask with PostgreSQL",
+    "dockerComposeFile": [
+      "docker-compose.yml"
+    ],
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+      "ms-python.python"
+    ],
+    "postCreateCommand": "pip install -r requirements.txt"
+  }
+  

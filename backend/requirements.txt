@@ -1,0 +1,6 @@
+Flask
+flask-cors
+gspread
+oauth2client
+psycopg2-binary
+apscheduler
